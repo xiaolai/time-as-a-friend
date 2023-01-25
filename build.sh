@@ -2,6 +2,7 @@
 
 rm -rf tmp.md
 
+cat README.md >> tmp.md
 cat Preface.md >> tmp.md
 cat Forword.md >> tmp.md
 cat Chapter0.md >> tmp.md
